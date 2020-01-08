@@ -1,5 +1,14 @@
 # Raster
 
+## Download 
+
+Download the folder :
+
+```bash
+git clone https://github.com/gwendalp/Raster.git
+```
+
+
 ## Compiling
 
 Let's get started ! :page_facing_up:
